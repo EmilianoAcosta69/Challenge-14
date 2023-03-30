@@ -26,5 +26,5 @@ console.log (checkLastname);
 
 let cadena = 'Pablito-clavo-un-clavito';
 let nuevaCadena = cadena.replace(/-/g, " ");
-
-console.log(nuevaCadena);
+document.write("<br>");
+document.write(nuevaCadena);
